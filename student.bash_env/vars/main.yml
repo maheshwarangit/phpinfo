@@ -1,0 +1,13 @@
+---
+# vars file for student.bash_env
+staff:
+  - user1
+  - user2
+  - user3
+guests:
+  - user3
+  - user4
+  - user5
+revoke:
+  - user4
+  - user3
